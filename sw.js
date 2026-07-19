@@ -1,4 +1,4 @@
-const CACHE = "gersongains-v1";
+const CACHE = "gersongains-v2";
 const ASSETS = ["./", "./index.html", "./app.js", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./icon-180.png"];
 
 self.addEventListener("install", (e) => {
